@@ -66,5 +66,6 @@ Finally for testing, features are generated for the testing images and then they
 # Results
 
 <p align="center">
-  <img src="https://github.com/KabirBatra06/panorama_generation/blob/main/1.jpg" width="350" title="img1">
+  <img src="https://github.com/KabirBatra06/Car_detection_using_cascaded_ADAboost/blob/main/ada_plot.png" width="350" title="img1">
+  <img src="https://github.com/KabirBatra06/Car_detection_using_cascaded_ADAboost/blob/main/ada_plot_test.png" width="350" title="img1">
 </p>
