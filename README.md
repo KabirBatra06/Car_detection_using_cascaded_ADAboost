@@ -10,7 +10,7 @@ Then the sorted feature list is used to calculate errors for two polarities letâ
 My error for polarity 1 is calculated as follows:
 
 $$
-{e_1\=S_pos+A_neg-S_neg}
+{e_1\=S_{pos}+A_{neg}-S_{neg}}
 $$
 
 Here S_pos is the cumulative sum of all the weights of positive labels less than the threshold  
@@ -20,7 +20,7 @@ A_neg is the sum of all the weights of negative labels less than the threshold
 My error for polarity 2 is calculated as follows:
 
 $$
-{e_2\=S_neg+A_pos-S_pos}
+{e_2\=S_{neg}+A_{pos}-S_{pos}}
 $$
 
 Here S_neg is the cumulative sum of all the weights of negative labels less than the threshold  
